@@ -1,0 +1,10 @@
+C:\Users\Taine\Desktop\FATEC\3 Semestre\Ivone_ProgLinear\Transporte\CantoNoroeste\CantoNoroeste\bin\Debug\CantoNoroeste.exe.config
+C:\Users\Taine\Desktop\FATEC\3 Semestre\Ivone_ProgLinear\Transporte\CantoNoroeste\CantoNoroeste\bin\Debug\CantoNoroeste.exe
+C:\Users\Taine\Desktop\FATEC\3 Semestre\Ivone_ProgLinear\Transporte\CantoNoroeste\CantoNoroeste\bin\Debug\CantoNoroeste.pdb
+C:\Users\Taine\Desktop\FATEC\3 Semestre\Ivone_ProgLinear\Transporte\CantoNoroeste\CantoNoroeste\obj\Debug\CantoNoroeste.csprojAssemblyReference.cache
+C:\Users\Taine\Desktop\FATEC\3 Semestre\Ivone_ProgLinear\Transporte\CantoNoroeste\CantoNoroeste\obj\Debug\CantoNoroeste.Form1.resources
+C:\Users\Taine\Desktop\FATEC\3 Semestre\Ivone_ProgLinear\Transporte\CantoNoroeste\CantoNoroeste\obj\Debug\CantoNoroeste.Properties.Resources.resources
+C:\Users\Taine\Desktop\FATEC\3 Semestre\Ivone_ProgLinear\Transporte\CantoNoroeste\CantoNoroeste\obj\Debug\CantoNoroeste.csproj.GenerateResource.cache
+C:\Users\Taine\Desktop\FATEC\3 Semestre\Ivone_ProgLinear\Transporte\CantoNoroeste\CantoNoroeste\obj\Debug\CantoNoroeste.csproj.CoreCompileInputs.cache
+C:\Users\Taine\Desktop\FATEC\3 Semestre\Ivone_ProgLinear\Transporte\CantoNoroeste\CantoNoroeste\obj\Debug\CantoNoroeste.exe
+C:\Users\Taine\Desktop\FATEC\3 Semestre\Ivone_ProgLinear\Transporte\CantoNoroeste\CantoNoroeste\obj\Debug\CantoNoroeste.pdb
